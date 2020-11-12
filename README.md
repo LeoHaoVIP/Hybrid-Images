@@ -20,7 +20,7 @@ JUST CLONE THE REPOSITORY AND RUN IT!
 
 ## Dependency
 
-* [openCV 3.4.1](https://opencv.org/opencv-3-4-1/)
+* [OpenCV 3.4.1](https://opencv.org/opencv-3-4-1/)
 
 ## References
 * [1] Oliva, Aude & Torralba, Antonio & Schyns, Philippe. (2006). Hybrid images. ACM Trans. Graph.. 25. 527-532. 10.1145/1141911.1141919. 
