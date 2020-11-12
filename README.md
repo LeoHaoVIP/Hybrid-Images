@@ -7,7 +7,7 @@ Here we represent 6 pair images to show the hybrid result.
 ![img_hybird_result](./doc_imgs_folder/hybrid_result.png)
 
 ## Project Structure
-+ Runnable Python source files are [HybridImage_Gray.py](./HybridImage_Gray.py) and [HybridImage_RGB](./HybridImage_RGB.py), which are the implemented on Gray Scale and RGB Scale.
++ Runnable Python source files are [HybridImage_Gray.py](./HybridImage_Gray.py) and [HybridImage_RGB](./HybridImage_RGB.py), which are implemented on Gray Scale and RGB Scale.
 JUST CLONE THE REPOSITORY AND RUN IT!
 + Images to be hybridized are in [dataset_hybrid_images](./dataset_hybrid_images) directory, which contains 6 image pairs.
 + [hybrid_result_gray](./hybrid_result_gray) and [hybrid_result_rgb](./hybrid_result_rgb) directories are outputs of the two runnable Python scripts, which represent our result of hybrid images.
